@@ -19,10 +19,15 @@ L’association poursuit un but **non lucratif**
 ## ARTICLE 3 : Les moyens d’actions
 
 Pour réaliser son objet l’association utilisera les moyens suivants :
-- 	
--	
+
+- Organisation de conférence
+- Diffusion de communication sur internet ou en papier
+- Participation à des évènements lié aux technologies informatiques
+
 et toutes autres actions visant à renforcer l’objet de l’association.
-ARTICLE 4 : Durée
+
+## ARTICLE 4 : Durée
+
 L’association est constituée pour une durée 	
 
 ARTICLE 5 : Les ressources
