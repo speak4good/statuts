@@ -28,9 +28,10 @@ et toutes autres actions visant à renforcer l’objet de l’association.
 
 ## ARTICLE 4 : Durée
 
-L’association est constituée pour une durée 	
+L’association est constituée pour une durée illimitée
 
-ARTICLE 5 : Les ressources
+## ARTICLE 5 : Les ressources
+
 Les ressources de l’association sont constituées par :
 -	les cotisations des membres
 -	les subventions émanant d’organismes publics ou privés
