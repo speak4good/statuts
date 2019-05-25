@@ -10,17 +10,14 @@ Le siège pourra être transféré sur simple décision de la direction.
 
 L’association est inscrite au registre des associations du tribunal de **THIONVILLE**
 
-## ARTICLE 2 : Objet et but 
+## ARTICLE 2 : Objet et but
 
-L’association a pour objet de : **
-	
+L’association a pour objet de : **Favoriser l'adoption des Tech4Good et améliorer la visibilité de ce domaine**. Les Tech4Good se definissent comme l'utilisation de la technologie pour le bien commun.
 
-L’association poursuit un but 	
+L’association poursuit un but **non lucratif**
 
+## ARTICLE 3 : Les moyens d’actions
 
-
-
-ARTICLE 3 : Les moyens d’actions
 Pour réaliser son objet l’association utilisera les moyens suivants :
 - 	
 -	
