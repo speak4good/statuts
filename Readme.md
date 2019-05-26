@@ -63,6 +63,7 @@ Les ressources de l’association sont constituées par :
 - les dons et les legs
 - le revenu des biens et valeurs de l’association
 - toutes ressources qui ne sont pas interdites par les lois et règlements en vigueur
+- Le revenu lié aux sponsors
 
 ## ARTICLE 6 : Les membres
 Peut devenir membre toute personne physique ou morale intéressée par l’objet de l’association.
