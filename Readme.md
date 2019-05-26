@@ -56,12 +56,13 @@ L’association est constituée pour une durée illimitée
 ## ARTICLE 5 : Les ressources
 
 Les ressources de l’association sont constituées par :
--	les cotisations des membres
--	les subventions émanant d’organismes publics ou privés
--	les recettes des manifestations organisées par l’association
--	les dons et les legs 
--	le revenu des biens et valeurs de l’association
--	toutes ressources qui ne sont pas interdites par les lois et règlements en vigueur
+
+- les cotisations des membres
+- les subventions émanant d’organismes publics ou privés
+- les recettes des manifestations organisées par l’association
+- les dons et les legs
+- le revenu des biens et valeurs de l’association
+- toutes ressources qui ne sont pas interdites par les lois et règlements en vigueur
 
 ## ARTICLE 6 : Les membres
 Peut devenir membre toute personne physique ou morale intéressée par l’objet de l’association.
