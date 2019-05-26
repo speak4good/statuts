@@ -62,42 +62,37 @@ Les ressources de l’association sont constituées par :
 - les recettes des manifestations organisées par l’association
 - les dons et les legs
 - le revenu des biens et valeurs de l’association
+- l'organisation d'évènement lié à l'objet de l'association
 - toutes ressources qui ne sont pas interdites par les lois et règlements en vigueur
-- Le revenu lié aux sponsors
 
 ## ARTICLE 6 : Les membres
+
 Peut devenir membre toute personne physique ou morale intéressée par l’objet de l’association.
-
-
-
-
-
-
 
 Chaque membre prend l’engagement de respecter les présents statuts.
 
-
-Sélectionnez dans la colonne de droite les catégories que vous souhaitez instaurer sans oublier de préciser les droits et obligations de chacune des catégories de membres.
-Si l’association dispose de plusieurs catégories de membres, il faudra préciser les modalités d’adhésion pour chacune d’elles (exemples : conditions d’âge, lieu de résidence, situation sociale, etc…).
-
-Attention, ce qui vous est proposé dans la colonne de droite est un exemple que vous devez adapter à votre association.
+Sauf mention contraire, les membres n'ont pas à verser de cotisations à l'assocation.
 
 L’association se compose de :
-(Nommer les catégories de membres et les définir)
 
--	
-
-
-
--	
-
-
-
--	
-
-
-
-- 	
+- **Membres fondateurs**
+  - Ils ont créé l’association et sont signataires des statuts et ont participé à l’assemblée générale constitutive. 
+  - Ils disposent du droit de vote délibératif et peuvent se présenter aux postes de direction.
+  - Cette catégorie se limite aux personnes physiques
+- **Membres actifs**
+  - Ils participent à l'accomplissement de l'objet de l'association.
+  - Ils disposent du droit de vote délibératif et peuvent se présenter aux postes de direction.
+  - Cette catégorie se limite aux personnes physiques
+- **Sponsors mécènes**
+  - Les cotisations sont fixées à 1000€/an.
+  - Cette catégorie est ouverte aux personnes physiques et morales.
+  - Un mécène peut acquérir un certains nombres d'avantages lié à chaque évènement organisé par l'association. Ces avantages seront dépendant de la nature de l'évènement et precisé pour chaque évènement.
+  - Ils disposent d’une voix consultative.
+- **Sponsors partenaires**
+  - Cette catégorie est ouverte aux personnes physiques et morales.
+  - Le sponsor partenaire s’engage à faire bénéficier l’association d’une partie des ressources à sa disposition. Il peut s’agir de ressources humaines, logistiques, informatiques, ou autres.
+  - Un mécène peut acquérir un certains nombres d'avantages lié à chaque évènement organisé par l'association. Ces avantages seront dépendant de la nature de l'évènement et precisé pour chaque évènement.
+  - Ils disposent d’une voix consultative.
 
 ## ARTICLE 7 : Procédure d’adhésion
 
