@@ -76,7 +76,7 @@ Sauf mention contraire, les membres n'ont pas à verser de cotisations à l'asso
 L’association se compose de :
 
 - **Membres fondateurs**
-  - Ils ont créé l’association et sont signataires des statuts et ont participé à l’assemblée générale constitutive. 
+  - Ils ont créé l’association et sont signataires des statuts et ont participé à l’assemblée générale constitutive.
   - Ils disposent du droit de vote délibératif et peuvent se présenter aux postes de direction.
   - Cette catégorie se limite aux personnes physiques
 - **Membres actifs**
@@ -96,20 +96,19 @@ L’association se compose de :
 
 ## ARTICLE 7 : Procédure d’adhésion
 
-L’admission des membres est prononcée par : ……………………………..
+L’admission des membres est prononcée par : **le bureau**.
 
-
-En cas de refus, 	
-
-
+En cas de refus, la personne (physique ou morale) sera notifié des motifs du refus.
 
 ## ARTICLE 8 : La perte de la qualité de membre
 
 La qualité de membre se perd par :
-1.	décès ; 
-2.	démission adressée par écrit au président ; 
-3.	radiation prononcée par la direction pour non-paiement de la cotisation ;
-4.	exclusion prononcée par l’assemblée générale pour motif grave. Le membre concerné est préalablement invité à fournir des explications écrites à la direction.
+
+1. décès
+2. démission adressée par écrit au président
+3. radiation prononcée par la direction pour non-paiement de la cotisation
+4. exclusion prononcée par l’assemblée générale pour motif grave. Le membre concerné est préalablement invité à fournir des explications écrites à la direction.
+5. une inaction prolongée vis à vis de l'execution de l'objet de l'assocation
 
 ## ARTICLE 9 : L’assemblée générale ordinaire : convocation et organisation
 
