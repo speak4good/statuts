@@ -10,6 +10,8 @@
   - [ARTICLE 7 : Procédure d’adhésion](#article-7--proc%C3%A9dure-dadh%C3%A9sion)
   - [ARTICLE 8 : La perte de la qualité de membre](#article-8--la-perte-de-la-qualit%C3%A9-de-membre)
   - [ARTICLE 9 : L’assemblée générale ordinaire : convocation et organisation](#article-9--lassembl%C3%A9e-g%C3%A9n%C3%A9rale-ordinaire--convocation-et-organisation)
+  - [Modalités de convocation](#modalit%C3%A9s-de-convocation)
+  - [Organisation](#organisation)
   - [ARTICLE 10 : Pouvoirs de l’assemblée générale ordinaire](#article-10--pouvoirs-de-lassembl%C3%A9e-g%C3%A9n%C3%A9rale-ordinaire)
   - [ARTICLE 11 : La direction](#article-11--la-direction)
   - [ARTICLE 12 : Accès à la direction](#article-12--acc%C3%A8s-%C3%A0-la-direction)
@@ -79,10 +81,12 @@ L’association se compose de :
   - Ils ont créé l’association et sont signataires des statuts et ont participé à l’assemblée générale constitutive.
   - Ils disposent du droit de vote délibératif et peuvent se présenter aux postes de direction.
   - Cette catégorie se limite aux personnes physiques
+  - Ils disposent d’une voix deliberative.
 - **Membres actifs**
   - Ils participent à l'accomplissement de l'objet de l'association.
   - Ils disposent du droit de vote délibératif et peuvent se présenter aux postes de direction.
   - Cette catégorie se limite aux personnes physiques
+  - Ils disposent d’une voix deliberative.
 - **Sponsors mécènes**
   - Les cotisations sont fixées à 1000€/an.
   - Cette catégorie est ouverte aux personnes physiques et morales.
@@ -115,39 +119,19 @@ La qualité de membre se perd par :
 L’assemblée générale est composée de l’ensemble des membres de l’association.
 Elle se réunit une fois par an et chaque fois que l’intérêt de l’association l’exige.
 
+## Modalités de convocation
 
+- sur convocation du président (dans un délai de 1 mois)
+- convocation sur proposition de 30% des membres de l’association.
 
-Modalités de convocation : 
-- sur convocation du président (dans un délai de …)
-- convocation sur proposition de …. des membres de l’association.
-
-
-
-Les convocations contiennent l’ordre du jour et sont adressées par écrit au moins………… à l’avance.
-
-
-Procédure et conditions de vote :
-Pour que l’AG puisse valablement délibérer elle doit comprendre ……… membres présents ou représentés disposant de la voix délibérative est nécessaire. (*)
-Si cette proportion n’est pas atteinte, une seconde AGO sera convoquée dans un délai de ….. jours, elle pourra alors délibérer quelque soit le nombre de membres présents ou représentés.
-
-
-
-
-Attention le phrase ci-dessous est à mentionner si l’association autorise le vote par procuration
-
-Le vote par procuration est autorisé mais limité à …. procuration(s) par membre disposant du droit de vote délibératif.
-
-
-
-
-
-
+Les convocations contiennent l’ordre du jour et sont adressées par écrit au moins 15 jours à l’avance.
 
 Les résolutions de l’assemblée générale sont prises à la majorité des suffrages exprimés (membres présents ou représentés).
 Ne pourront prendre part au vote que les membres disposant d’une voix délibérative (cf art 6).
-Les votes se font à main levée sauf si …… des membres demandent le vote à bulletin secret.
+Les votes se font à main levée sauf si un minimum de 2 membres demandent le vote à bulletin secret.
 
-Organisation
+## Organisation
+
 L’ordre du jour est fixé par la direction. Seules sont valables les résolutions prises par l’assemblée générale sur les points inscrits à l’ordre du jour. La présidence de l’assemblée générale appartient au président. Toutes les délibérations et résolutions de l’assemblée générale font l’objet d’un procès-verbal et sont consignées dans le registre « des délibérations des assemblées générales » signé par le président et le secrétaire. Il est également tenu une feuille de présence qui est signée par chaque membre et certifiée conforme par le président et le secrétaire.
 
 ## ARTICLE 10 : Pouvoirs de l’assemblée générale ordinaire
