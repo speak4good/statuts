@@ -137,11 +137,15 @@ L’ordre du jour est fixé par la direction. Seules sont valables les résoluti
 ## ARTICLE 10 : Pouvoirs de l’assemblée générale ordinaire
 
 Dans la limite des pouvoirs qui leur sont conférés par le Code Civil local et par les présents statuts, les assemblées obligent par leurs décisions tous les membres, y compris les absents.
+
 L’assemblée entend les rapports sur la gestion de la direction et notamment sur la situation morale et financière de l’association.
+
 L’assemblée, après avoir délibéré et statué sur les différents rapports, approuve les comptes de l’exercice clos, vote le budget de l’exercice suivant et délibère sur toutes les autres questions figurant à l’ordre du jour.
+
 Elle pourvoit à la nomination ou au renouvellement des membres de la direction dans les conditions prévues à l’article 11 des présents statuts.
-Elle pourvoit à la nomination des vérificateurs aux comptes* dans les conditions prévues à l’article 20 des présents statuts.
-Elle fixe aussi le montant de la cotisation annuelle et des droits d’entrées* à verser par les différentes catégories de membres de l’association. Enfin, elle est seule compétente pour prononcer l’exclusion d’un membre pour tout motif grave portant préjudice à l’association.
+
+Elle fixe aussi le montant de la cotisation annuelle par les différentes catégories de membres de l’association. Enfin, elle est seule compétente pour prononcer l’exclusion d’un membre pour tout motif grave portant préjudice à l’association.
+
 L’assemblée générale est également compétente pour examiner tous les points qui ne relèvent pas des attributions de la direction.
 
 ## ARTICLE 11 : La direction
