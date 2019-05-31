@@ -150,15 +150,19 @@ L’assemblée générale est également compétente pour examiner tous les poin
 
 ## ARTICLE 11 : La direction
 
-L’association est administrée par une direction composée de ………. membres.
+L’association est administrée par une direction (Le bureau) composée de 3 membres.
 
 La durée du mandat : 
-Les membres de la direction sont élus pour ……ans, par l’assemblée générale ordinaire et choisis en son sein.
+Les membres de la direction sont élus pour 1 ans, par l’assemblée générale ordinaire et choisis en son sein.
 En cas de poste vacant, la direction pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus proche assemblée générale ordinaire. Les pouvoirs des membres remplaçants s’achèvent à l’époque où devrait normalement expirer le mandat des membres remplacés.
 
 ## ARTICLE 12 : Accès à la direction
 
 Est éligible à la direction tout membre de l’association à jour de cotisation.
+
+Seules les personnes physiques sont autorisé à se présenter. 
+
+Le bureau est seul décisionnaire concernant le choix de ses remplaçants.
 
 ## ARTICLE 13 : Les postes de la direction
 
