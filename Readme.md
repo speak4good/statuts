@@ -16,6 +16,9 @@
   - [ARTICLE 11 : La direction](#article-11--la-direction)
   - [ARTICLE 12 : Accès à la direction](#article-12--acc%C3%A8s-%C3%A0-la-direction)
   - [ARTICLE 13 : Les postes de la direction](#article-13--les-postes-de-la-direction)
+    - [Le président](#le-pr%C3%A9sident)
+    - [Le trésorier](#le-tr%C3%A9sorier)
+    - [Le secrétaire](#le-secr%C3%A9taire)
   - [ARTICLE 14 : Les réunions de la direction](#article-14--les-r%C3%A9unions-de-la-direction)
   - [ARTICLE 15 : Les pouvoirs de la direction](#article-15--les-pouvoirs-de-la-direction)
   - [ARTICLE 16 : Rétributions et Remboursement de frais](#article-16--r%C3%A9tributions-et-remboursement-de-frais)
@@ -167,35 +170,36 @@ Le bureau est seul décisionnaire concernant le choix de ses remplaçants.
 ## ARTICLE 13 : Les postes de la direction
 
 La direction comprend les postes suivants :
-- 	
--	
--	
-- 	
 
-Attention, ce qui vous est proposé ci-dessous est un exemple que vous devez adapter à votre association.
+- Président
+- Secrétaire
+- Trésorier
 
-Le président
+### Le président
+
 Il veille au respect des statuts et à la sauvegarde des intérêts moraux de l’association. Il supervise la conduite des affaires de l’association et veille au respect des décisions de la direction.
 Il assume les fonctions de représentation : légale, judiciaire et extra–judiciaire de l’association dans tous les actes de la vie civile.
 Il peut donner délégation à d’autres membres de la direction pour l’exercice de ses fonctions de représentation.
 
-Le trésorier
+### Le trésorier
+
 Il veille à la régularité des comptes et tient une comptabilité probante. Il rend compte de sa gestion à chaque assemblée générale.
 
-Le secrétaire
+### Le secrétaire
+
 Il est chargé de tout ce qui concerne la correspondance de l’association. Il rédige les procès verbaux des assemblées et des réunions de la direction. Il tient également le registre des délibérations des assemblées générales et le registre des délibérations de la direction.
 
 ## ARTICLE 14 : Les réunions de la direction
 
-La direction se réunit au moins…... par an et chaque fois qu’elle est convoquée par son président ou à la demande de ………de ses membres.
+La direction se réunit au moins 1 fois par an et chaque fois qu’elle est convoquée par son président.
 
-L’ordre du jour est fixé par le président et est joint aux convocations écrites qui devront être adressées au moins……….jours avant la réunion.
+L’ordre du jour est fixé par le président et est joint aux convocations écrites qui devront être adressées au moins 15 jours avant la réunion.
 Seuls pourront être débattus les points inscrits à l’ordre du jour.
 
-La présence d’au moins ……… de ses membres est nécessaire pour que la direction puisse valablement délibérer.
+La présence d’au moins 3 de ses membres est nécessaire pour que la direction puisse valablement délibérer.
 
 Les résolutions sont prises à la majorité des membres présents.
-Par ailleurs, les dites délibérations sont prises à main levée. Toutefois, à la demande de …… des membres présents, les votes doivent être émis au scrutin secret.
+Par ailleurs, les dites délibérations sont prises à main levée. Toutefois, à la demande de 2 des membres présents, les votes doivent être émis au scrutin secret.
 Toutes les délibérations et résolutions de la direction font l’objet de procès-verbaux, inscrits sur le registre des délibérations et signés par le président et le secrétaire.
 Il est tenu une liste d’émargement signée par chaque membre présent.
 
