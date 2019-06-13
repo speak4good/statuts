@@ -200,12 +200,13 @@ La présence d’au moins 3 de ses membres est nécessaire pour que la direction
 
 Les résolutions sont prises à la majorité des membres présents.
 Par ailleurs, les dites délibérations sont prises à main levée. Toutefois, à la demande de 2 des membres présents, les votes doivent être émis au scrutin secret.
-Toutes les délibérations et résolutions de la direction font l’objet de procès-verbaux, inscrits sur le registre des délibérations et signés par le président et le secrétaire.
+Toutes les délibérations et résolutions de la direction font l’objet de procès-verbaux, inscrits sur le registre des délibérations et signés par le président et le secrétaire. Ce registre sera disponible sur internet sur une plateforme tel que decrit dans l'article 18 (Modification des statuts).
+
 Il est tenu une liste d’émargement signée par chaque membre présent.
 
 ## ARTICLE 15 : Les pouvoirs de la direction
 
-La direction prend toutes les décisions nécessaires à la gestion quotidienne de l’association qui ne sont pas de la compétence de l’assemblée générale. Elle assure le secrétariat de l’assemblée générale et veille à ce que toutes les mentions à inscrire sur le registre des associations soient effectuées dans un délai de 3 mois*.
+La direction prend toutes les décisions nécessaires à la gestion quotidienne de l’association qui ne sont pas de la compétence de l’assemblée générale. Elle assure le secrétariat de l’assemblée générale et veille à ce que toutes les mentions à inscrire sur le registre des associations soient effectuées dans un délai de 3 mois.
 
 Elle prononce les éventuelles mesures de radiation des membres.
 Elle fait ouvrir tout compte bancaire auprès de tout établissement de crédit, effectue tout emploi de fonds, contracte tout emprunt.
@@ -222,15 +223,15 @@ Les frais occasionnés par l’accomplissement de leur mandat sont remboursés a
 ## ARTICLE 17 : Assemblée générale extraordinaire : convocation et organisation
 
 Elle est compétente pour la modification des statuts (article 18) et pour la dissolution de l’association (article 19).
-Pour la validité des décisions, l’assemblée générale extraordinaire doit comprendre au moins………..des membres ayant droit de vote délibératif.
-Si cette proportion n’est pas atteinte, l’Assemblée extraordinaire est convoquée à nouveau, mais à quinze jours* d’intervalle. Elle peut alors délibérer quel que soit le nombre des membres présents (ou représentés).
+Pour la validité des décisions, l’assemblée générale extraordinaire doit comprendre au moins 3 des membres ayant droit de vote délibératif.
+Si ce nombre n’est pas atteint, l’Assemblée extraordinaire est convoquée à nouveau, mais à quinze jours d’intervalle. Elle peut alors délibérer quel que soit le nombre des membres présents (ou représentés).
 Les procédures de convocation et de vote sont les mêmes que celles des assemblées générales ordinaires prévues à l’article 9 des présents statuts.
 
 ## ARTICLE 18 : Modification des statuts
 
-La modification des statuts de l’association doit être décidée par l’assemblée générale extraordinaire à la majorité de …… des membres présents (ou représentés).
+La modification des statuts de l’association doit être décidée par l’assemblée générale extraordinaire à la majorité de 2/3 des membres présents (ou représentés).
 Les délibérations ne peuvent porter que sur l’adoption ou le rejet des propositions de modifications arrêtées par la direction et mentionnées à l’ordre du jour.
-Les modifications feront l’objet d’un procès verbal, signé par le président et le secrétaire et sera transmis au tribunal dans un délai de 3 mois*.
+Les modifications feront l’objet d’un procès verbal, signé par le président et le secrétaire et sera transmis au tribunal dans un délai de 3 mois.
 
 De plus, les statuts seront disponible et suivit sur une plateforme de type **GitHub**. Ceci entraine le fonctionnement suivant :
 
@@ -241,14 +242,13 @@ De plus, les statuts seront disponible et suivit sur une plateforme de type **Gi
 
 ## ARTICLE 19 : Dissolution de l’association
 
-La dissolution de l’association doit être décidée par l’assemblée générale extraordinaire à la majorité de ………. des membres présents (ou représentés).
-
+La dissolution de l’association doit être décidée par l’assemblée générale extraordinaire à la majorité de 3/4 des membres présents (ou représentés).
 
 L’assemblée désigne une ou plusieurs personnes membres ou non-membres de l’association qui seront chargées de la liquidation des biens de celle-ci.
 
-
 L’actif net subsistant sera attribué à :
-- une association poursuivant des buts similaires,
+
+- une association poursuivant des buts similaires.
 - un organisme à but d’intérêt général (école, commune, syndicat…) choisi par l’assemblée générale.
 
 La dissolution fera l’objet d’un procès verbal signé par le président et le secrétaire et sera transmis au tribunal au plus vite.
@@ -258,10 +258,10 @@ La dissolution fera l’objet d’un procès verbal signé par le président et 
 La direction pourra établir un règlement intérieur fixant les modalités d’exécution des présents statuts et d’organisation interne et pratique de l’association.
 Ce règlement intérieur sera soumis à l’approbation de l’assemblée générale ordinaire ainsi que ses modifications ultérieures.
 
-## ARTICLE 21 : Approbation des statuts 
+## ARTICLE 21 : Approbation des statuts
 
-Les présents statuts ont été adoptés par l’assemblée générale constitutive qui s’est tenue à 	
+Les présents statuts ont été adoptés par l’assemblée générale constitutive qui s’est tenue à _________
 
-Le	
+Le ____/____/____
 
 Signatures :
