@@ -262,6 +262,6 @@ Ce règlement intérieur sera soumis à l’approbation de l’assemblée géné
 
 Les présents statuts ont été adoptés par l’assemblée générale constitutive qui s’est tenue à _________
 
-Le ____/____/____
+Le ______
 
 Signatures :
